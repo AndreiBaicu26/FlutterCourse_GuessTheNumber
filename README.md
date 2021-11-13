@@ -1,6 +1,7 @@
 ## Homework 2 - Guess the number
 
 ---
+
 ### Description
 A flutter game where the user has to guess a random generated number based on the hints of the game.
 If the user inserts a higher or lower number then the app will let the user know.
