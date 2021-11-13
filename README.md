@@ -13,3 +13,5 @@ If the user inserts a higher or lower number then the app will let the user know
 * Difference between function parameters
 
 ### Here is a quick demo:
+
+![ Alt text](Recording.gif) / ! [](Recording.gif)
